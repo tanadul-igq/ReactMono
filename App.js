@@ -1,3 +1,5 @@
+import Aomsin;
+
 import React, {useState} from "react";
 import {
   ScrollView,
