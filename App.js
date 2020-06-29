@@ -1,4 +1,4 @@
-import Aomsin;
+import Aomsin2;
 
 import React, {useState} from "react";
 import {
